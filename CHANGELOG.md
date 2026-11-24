@@ -1,3 +1,7 @@
+# Unreleased
+
+* [Testing] Add Python 3.13 and 3.14 to the test matrix.
+
 # Version 3.3.0 (2026-09-02)
 
 * [Enhancement] Support Tutor 22 and Open edX Verawood.
